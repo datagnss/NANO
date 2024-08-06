@@ -1,2 +1,0 @@
-# NANO Series RTK receiver
-

@@ -199,11 +199,7 @@
 </td>
 <td>95% RH
 </td></tr>
-<tr>
-<td>Size
-</td>
-<td colspan="3">16.0×12.2×2.4 mm, 24pin LCC
-</td></tr></tbody></table>
+</tbody></table>
 
 * [1] tested with a good external LNA
 * [2] Supported upon request with special firmware

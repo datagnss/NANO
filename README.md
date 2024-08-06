@@ -7,6 +7,8 @@ The NANO series supports USB interfaces and can be connected to SBC motherboards
 
 With a specially provided USB Type C cable, NANO can be directly connected to an Android phone for RTK positioning and data acquisition. It supports NTRIP access to your reference station, and transmits RTK positioning data to other devices via Bluetooth or other wired cables.
 
+[Quick Guide](Quickguide.md)
+
 [Specifications](Specifications.md)
 
 [Applications](Applications.md)
